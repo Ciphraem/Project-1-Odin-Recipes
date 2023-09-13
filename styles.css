@@ -36,10 +36,15 @@ div .main-title{
     color: rgb(65,44,17);
 }
 
-.content ul {
+.content ul, ol {
     text-align: center;
     list-style-position: inside;
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+img {
+    height: 100px;
+    width: auto;
 }
